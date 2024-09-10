@@ -26,13 +26,13 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/abdelaziz-seoudi-56a4831a4/" target="_blank">
-  <img align="center" alt="Abdelaziz Ibrahim Seoudi | Linkedin" width="24px" src="https://github.com/abdelazizib/abdelazizib/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Abdelaziz Ibrahim Seoudi | Linkedin" width="24px" src="https://github.com/abdelazizib/abdelazizib/blob/main/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/zeeseoudi/" target="_blank">
-  <img align="center" alt="Abdelaziz Ibrahim Seoudi | Facebook" width="24px" src="https://github.com/abdelazizib/abdelazizib/blob/master/Assets/Facebook.svg" />
+  <img align="center" alt="Abdelaziz Ibrahim Seoudi | Facebook" width="24px" src="https://github.com/abdelazizib/abdelazizib/blob/main/Assets/Facebook.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:zeseoudi@gmail.com">
-  <img align="center" alt="Abdelaziz Ibrahim Seoudi | Gmail" width="26px" src="https://github.com/abdelazizib/abdelazizib/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Abdelaziz Ibrahim Seoudi | Gmail" width="26px" src="https://github.com/abdelazizib/abdelazizib/blob/main/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
 <p align="center">
