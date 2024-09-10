@@ -1,6 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Abdelaziz Ibrahim Seoudi</h1>
-
-<a target="_blank" href="#"><img src="https://github.com/abdelazizib/abdelazizib/blob/main/Group%203.png"/></a>
+<h1 align="center"> Hi there 👋, I'm Abdelaziz Ibrahim</h1>
 
 <p align="center">
 	<a href="https://github.com/abdelazizib">
